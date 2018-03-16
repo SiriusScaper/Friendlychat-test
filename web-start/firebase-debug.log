@@ -1,0 +1,32 @@
+[debug] [2018-03-14T03:19:15.974Z] ----------------------------------------------------------------------
+[debug] [2018-03-14T03:19:15.977Z] Command:       /home/sirius/n/bin/node /home/sirius/n/bin/firebase serve
+[debug] [2018-03-14T03:19:15.977Z] CLI Version:   3.17.6
+[debug] [2018-03-14T03:19:15.977Z] Platform:      linux
+[debug] [2018-03-14T03:19:15.977Z] Node Version:  v9.4.0
+[debug] [2018-03-14T03:19:15.977Z] Time:          Tue Mar 13 2018 20:19:15 GMT-0700 (DST)
+[debug] [2018-03-14T03:19:15.978Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-14T03:19:15.990Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-14T03:19:15.991Z] > authorizing via signed-in user
+[debug] [2018-03-14T03:19:15.993Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-3211b  
+  
+ Tue Mar 13 2018 20:19:15 GMT-0700 (DST)
+[debug] [2018-03-14T03:19:16.421Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-14T03:19:16.422Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-3211b/tokens  
+  
+ Tue Mar 13 2018 20:19:16 GMT-0700 (DST)
+[debug] [2018-03-14T03:19:16.750Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-14T03:19:16.751Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-3211b  
+  
+ Tue Mar 13 2018 20:19:16 GMT-0700 (DST)
+[debug] [2018-03-14T03:19:17.091Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/mnt/c/Users/SiriusScaper/Google Drive/Code/UCD Ext Bootcamp/Projects/friendlychat-web/web-start'...
+[info] 
+[debug] [2018-03-14T03:19:17.094Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/54636059155/clients/_:getWebAppConfig  
+  
+ Tue Mar 13 2018 20:19:17 GMT-0700 (DST)
+[debug] [2018-03-14T03:19:17.443Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] ✔  hosting: Local server: http://localhost:5000
+
